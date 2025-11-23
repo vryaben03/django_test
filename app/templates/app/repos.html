@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GitHub Repositories</title>
+    <style>
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+        .form-group { margin-bottom: 20px; }
+        .form-control { 
+            width: 100%; 
+            padding: 12px; 
+            margin: 8px 0; 
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .form-control:focus {
+            border-color: #007bff;
+            outline: none;
+            box-shadow: 0 0 5px rgba(0,123,255,0.3);
+        }
+        .form-label {
+            font-weight: bold;
+            font-size: 18px;
+            color: #333;
+            display: block;
+            margin-bottom: 8px;
+        }
+        .btn { 
+            padding: 12px 24px; 
+            margin: 5px; 
+            cursor: pointer; 
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .btn-primary { 
+            background: #007bff; 
+            color: white; 
+        }
+        .btn-primary:hover {
+            background: #0056b3;
+        }
+        .btn-secondary { 
+            background: #6c757d; 
+            color: white; 
+        }
+        .btn-secondary:hover {
+            background: #545b62;
+        }
+        .repo-list { margin-top: 30px; }
+        .repo-item { 
+            border: 1px solid #ddd; 
+            padding: 20px; 
+            margin: 15px 0; 
+            border-radius: 8px;
+            background: #f9f9f9;
+        }
+        .repo-item:hover {
+            background: #f0f0f0;
+        }
+        .repo-stats { color: #666; font-size: 0.9em; margin-top: 10px; }
+        .error { 
+            color: #721c24; 
+            padding: 15px; 
+            background: #f8d7da; 
+            border: 1px solid #f5c6cb;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .success { 
+            color: #155724; 
+            padding: 15px; 
+            background: #d4edda; 
+            border: 1px solid #c3e6cb;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .username-section {
+            background: #e7f3ff;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border-left: 4px solid #007bff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 Поиск репозиториев GitHub</h1>
+        
+        <!-- Кнопки управления -->
+        <div style="margin-bottom: 30px;">
+            <a href="{% url 'home' %}" class="btn btn-secondary">🔄 Изменить токен</a>
+            <a href="{% url 'clear_token' %}" class="btn btn-secondary">🗑️ Очистить токен</a>
+        </div>
+        
+        <!-- Сообщения об ошибках/успехе -->
+        {% if error %}
+            <div class="error">
+                <strong>❌ Ошибка:</strong> {{ error }}
+            </div>
+        {% endif %}
+        
+        {% if filename %}
+            <div class="success">
+                <strong>✅ Успешно!</strong><br>
+                📁 Данные сохранены в файл: <strong>{{ filename }}</strong><br>
+                📊 Найдено репозиториев: <strong>{{ repos_count }}</strong>
+            </div>
+        {% endif %}
+        
+        <!-- УЛУЧШЕННАЯ ФОРМА для ввода имени пользователя -->
+        <div class="username-section">
+            <h2>👤 Введите имя пользователя GitHub</h2>
+            <form method="post">
+                {% csrf_token %}
+                <div class="form-group">
+                    <label class="form-label">GitHub Username:</label>
+                    <input type="text" 
+                           name="username" 
+                           class="form-control" 
+                           placeholder="Например: torvalds, microsoft, google..."
+                           required
+                           {% if username %}value="{{ username }}"{% endif %}>
+                    <small style="color: #666; display: block; margin-top: 5px;">
+                        Введите точное имя пользователя GitHub
+                    </small>
+                </div>
+                <button type="submit" class="btn btn-primary">
+                    🚀 Получить репозитории
+                </button>
+            </form>
+        </div>
+        
+        <!-- Блок с результатами -->
+        {% if repos %}
+        <div class="repo-list">
+            <h2>📚 Репозитории пользователя <span style="color: #007bff;">{{ username }}</span>:</h2>
+            
+            {% for repo in repos %}
+            <div class="repo-item">
+                <h3>
+                    <a href="{{ repo.url }}" target="_blank" style="color: #007bff; text-decoration: none;">
+                        📁 {{ repo.name }}
+                    </a>
+                </h3>
+                {% if repo.description %}
+                    <p style="margin: 10px 0; color: #333;">{{ repo.description }}</p>
+                {% else %}
+                    <p style="margin: 10px 0; color: #999; font-style: italic;">Описание отсутствует</p>
+                {% endif %}
+                <div class="repo-stats">
+                    ⭐ <strong>{{ repo.stars }}</strong> stars | 
+                    🍴 <strong>{{ repo.forks }}</strong> forks | 
+                    {% if repo.language %}
+                    💻 <strong>{{ repo.language }}</strong>
+                    {% else %}
+                    💻 <strong>Not specified</strong>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
