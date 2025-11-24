@@ -1,0 +1,4468 @@
+[
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 100000.0,
+      "max": 120000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/128013899",
+    "website": "hh.ru",
+    "employer": "Казанников Андрей Андреевич",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T16:24:33+0300"
+  },
+  {
+    "name": "Middle Python разработчик",
+    "salary": {
+      "min": null,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/125145422",
+    "website": "hh.ru",
+    "employer": "ВижнЛабс (VisionLabs)",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T18:11:46+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 140000.0,
+      "max": 140000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127984262",
+    "website": "hh.ru",
+    "employer": "Базальт СПО",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T09:58:12+0300"
+  },
+  {
+    "name": "Senior Python-разработчик",
+    "salary": {
+      "min": 500000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/125154982",
+    "website": "hh.ru",
+    "employer": "AERODISK",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T16:10:04+0300"
+  },
+  {
+    "name": "Python-разработчик (Junior)",
+    "salary": {
+      "min": 120000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127837488",
+    "website": "hh.ru",
+    "employer": "Веза",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T15:40:26+0300"
+  },
+  {
+    "name": "Backend разработчик/тестировщик Python (FastAPI)",
+    "salary": {
+      "min": 100000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/128022344",
+    "website": "hh.ru",
+    "employer": "Базанихина Анастасия Владимировна",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T19:21:33+0300"
+  },
+  {
+    "name": "Python-разработчик (фитнес-клуб)",
+    "salary": {
+      "min": 80000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127957890",
+    "website": "hh.ru",
+    "employer": "Поколение",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T16:03:17+0300"
+  },
+  {
+    "name": "Python разработчик (Software Engineer)",
+    "salary": {
+      "min": null,
+      "max": 400000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/123054425",
+    "website": "hh.ru",
+    "employer": "Консалт Плюс",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T13:16:54+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": null,
+      "max": 240000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127729458",
+    "website": "hh.ru",
+    "employer": "Фабрика Решений",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T17:59:48+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 180000.0,
+      "max": 220000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127724917",
+    "website": "hh.ru",
+    "employer": "Савчук Егор Сергеевич",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T16:47:07+0300"
+  },
+  {
+    "name": "Python разработчик",
+    "salary": {
+      "min": 120000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127921066",
+    "website": "hh.ru",
+    "employer": "СмартБрик",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T15:03:29+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": null,
+      "max": 230000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126983766",
+    "website": "hh.ru",
+    "employer": "Вычислительные решения",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T12:33:25+0300"
+  },
+  {
+    "name": "RL+NLP Разработчик",
+    "salary": {
+      "min": 160000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/128021316",
+    "website": "hh.ru",
+    "employer": "МФТИ",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T18:39:54+0300"
+  },
+  {
+    "name": "Senior Python Developer",
+    "salary": {
+      "min": 4500.0,
+      "max": 5500.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/128016324",
+    "website": "hh.ru",
+    "employer": "Николаев Артем Николаевич",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T17:00:10+0300"
+  },
+  {
+    "name": "RL Разработчик",
+    "salary": {
+      "min": 250000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/128020964",
+    "website": "hh.ru",
+    "employer": "МФТИ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T18:24:53+0300"
+  },
+  {
+    "name": "Middle+CV Разработчик",
+    "salary": {
+      "min": 250000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/128020790",
+    "website": "hh.ru",
+    "employer": "МФТИ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T18:16:44+0300"
+  },
+  {
+    "name": "Разработчик C++",
+    "salary": {
+      "min": 150000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/125396231",
+    "website": "hh.ru",
+    "employer": "Медиа Эффект",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T16:41:11+0300"
+  },
+  {
+    "name": "ML разработчик",
+    "salary": {
+      "min": 250000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127073906",
+    "website": "hh.ru",
+    "employer": "Группа Компаний ВестЛинк",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T16:15:22+0300"
+  },
+  {
+    "name": "Senior Backend Engineer (Python, AI, EdTech) / Старший Разработчик Бэкенда (Python, ИИ, Образование)",
+    "salary": {
+      "min": 6000.0,
+      "max": null,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127043921",
+    "website": "hh.ru",
+    "employer": "Novakid Inc",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T09:56:57+0300"
+  },
+  {
+    "name": "Разработчик C++",
+    "salary": {
+      "min": 200000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127365035",
+    "website": "hh.ru",
+    "employer": "Инжиниринговый центр Гипертех",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T13:18:23+0300"
+  },
+  {
+    "name": "Middle Backend разработчик (Python)",
+    "salary": {
+      "min": 230000.0,
+      "max": 345000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127547656",
+    "website": "hh.ru",
+    "employer": "Tevian (ООО Технологии видеоанализа)",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T18:12:50+0300"
+  },
+  {
+    "name": "Бэкенд-разработчик",
+    "salary": {
+      "min": 300000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127948144",
+    "website": "hh.ru",
+    "employer": "Ритейл-Процессинг",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T12:46:50+0300"
+  },
+  {
+    "name": "Spatial AI Разработчик",
+    "salary": {
+      "min": 250000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/128021088",
+    "website": "hh.ru",
+    "employer": "МФТИ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T18:29:27+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": null,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127643982",
+    "website": "hh.ru",
+    "employer": "Affilyx (ООО Здоровье Онлайн)",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T15:40:18+0300"
+  },
+  {
+    "name": "Разработчик C++ (Ardupilot)",
+    "salary": {
+      "min": 150000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/125976126",
+    "website": "hh.ru",
+    "employer": "Медиа Эффект",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T16:41:11+0300"
+  },
+  {
+    "name": "Ведущий разработчик робототехник",
+    "salary": {
+      "min": 350000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/125435906",
+    "website": "hh.ru",
+    "employer": "НПО ПКРВ-Иннополис",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T15:14:00+0300"
+  },
+  {
+    "name": "Ruby бэкенд разработчик",
+    "salary": {
+      "min": 300000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127366946",
+    "website": "hh.ru",
+    "employer": "Icons8",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T13:51:51+0300"
+  },
+  {
+    "name": "Разработчик С++ (junior)",
+    "salary": {
+      "min": 130000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127997584",
+    "website": "hh.ru",
+    "employer": "Уникальные Волоконные Приборы - Комплексные Системы",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T12:46:15+0300"
+  },
+  {
+    "name": "Инженер-разработчик C++",
+    "salary": {
+      "min": null,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127997053",
+    "website": "hh.ru",
+    "employer": "Смарт Энджинс Сервис",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T12:38:02+0300"
+  },
+  {
+    "name": "Junior Python Developer (Web3)",
+    "salary": {
+      "min": null,
+      "max": 1300.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127991201",
+    "website": "hh.ru",
+    "employer": "RateXAi Scoring Systems (ИП Гусев Юрий Михайлович)",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T11:26:39+0300"
+  },
+  {
+    "name": "Python Backend разработчик (AI Telegram Chatbots)",
+    "salary": {
+      "min": 250000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127789306",
+    "website": "hh.ru",
+    "employer": "Половинко Константин Валерьевич",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T15:02:17+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 60000.0,
+      "max": 100000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127433763",
+    "website": "hh.ru",
+    "employer": "Фитбейс",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T22:17:47+0300"
+  },
+  {
+    "name": "Senior Python разработчик",
+    "salary": {
+      "min": 250000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127879731",
+    "website": "hh.ru",
+    "employer": "СмартБрик",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T15:16:20+0300"
+  },
+  {
+    "name": "Разработчик C/С++",
+    "salary": {
+      "min": 200000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126165885",
+    "website": "hh.ru",
+    "employer": "КАТЮША ПРИНТ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T10:38:19+0300"
+  },
+  {
+    "name": "Senior-Backend разработчик в Vivora",
+    "salary": {
+      "min": 150000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127744644",
+    "website": "hh.ru",
+    "employer": "Лящ Максим Михайлович",
+    "experience": "От 3 до 6 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-24T17:58:59+0300"
+  },
+  {
+    "name": "Middle Backend-разработчик (Golang)",
+    "salary": {
+      "min": 1700.0,
+      "max": 2300.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/128002638",
+    "website": "hh.ru",
+    "employer": "Steamify",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T13:53:05+0300"
+  },
+  {
+    "name": "AI-powered Backend-разработчик",
+    "salary": {
+      "min": 200000.0,
+      "max": 240000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/128004740",
+    "website": "hh.ru",
+    "employer": "Айкью",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T14:20:52+0300"
+  },
+  {
+    "name": "Разработчик для IE-стартапа (бухгалтерская направленность)",
+    "salary": {
+      "min": 80000.0,
+      "max": 150000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/128021291",
+    "website": "hh.ru",
+    "employer": "Кадиева Патимат Набиевна",
+    "experience": "Нет опыта",
+    "employment": "Проектная работа",
+    "published_at": "2025-11-24T18:38:33+0300"
+  },
+  {
+    "name": "ASIC-разработчик/СБИС-инженер",
+    "salary": {
+      "min": 250000.0,
+      "max": 350000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127991271",
+    "website": "hh.ru",
+    "employer": "МФТИ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T11:27:32+0300"
+  },
+  {
+    "name": "Python-разработчик (Middle+/Senior)",
+    "salary": {
+      "min": 200000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127749004",
+    "website": "hh.ru",
+    "employer": "30 БИТ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T15:15:04+0300"
+  },
+  {
+    "name": "Full-stack разработчик / AI-Accelerated Developer",
+    "salary": {
+      "min": 150000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127837944",
+    "website": "hh.ru",
+    "employer": "Riverstart (ООО Риверстарт)",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T15:50:19+0300"
+  },
+  {
+    "name": "Python Developer (Middle+)",
+    "salary": {
+      "min": 180000.0,
+      "max": 230000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127914066",
+    "website": "hh.ru",
+    "employer": "Фабрика Решений",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T12:51:11+0300"
+  },
+  {
+    "name": "PHP разработчик (в команду DevOps)",
+    "salary": {
+      "min": 180000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127818314",
+    "website": "hh.ru",
+    "employer": "Leads",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T10:34:19+0300"
+  },
+  {
+    "name": "Разработчик C++_middle+",
+    "salary": {
+      "min": 230000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127719001",
+    "website": "hh.ru",
+    "employer": "Amex Development",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T15:19:25+0300"
+  },
+  {
+    "name": "Frontend-разработчик",
+    "salary": {
+      "min": 250000.0,
+      "max": 350000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127530418",
+    "website": "hh.ru",
+    "employer": "Sapiens solutions",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T13:55:50+0300"
+  },
+  {
+    "name": "Golang разработчик",
+    "salary": {
+      "min": null,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126990016",
+    "website": "hh.ru",
+    "employer": "Асклепиус",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T13:21:01+0300"
+  },
+  {
+    "name": "Разработчик IT",
+    "salary": {
+      "min": 100000.0,
+      "max": 120000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127510379",
+    "website": "hh.ru",
+    "employer": "Столица",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T10:52:46+0300"
+  },
+  {
+    "name": "Python-разработчик (Браузерная автоматизация, Junior+/Middle)",
+    "salary": {
+      "min": 130000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127888236",
+    "website": "hh.ru",
+    "employer": "Инфосфера",
+    "experience": "От 3 до 6 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-22T17:13:55+0300"
+  },
+  {
+    "name": "Инженер по безопасности / разработчик модулей облачного сканера",
+    "salary": {
+      "min": null,
+      "max": 350000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127590203",
+    "website": "hh.ru",
+    "employer": "METASCAN",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T13:30:59+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 4000.0,
+      "max": 5500.0,
+      "currency": "EUR"
+    },
+    "url": "https://hh.ru/vacancy/127892707",
+    "website": "hh.ru",
+    "employer": "Reinvent Baltics",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T20:17:03+0300"
+  },
+  {
+    "name": "Python-Разработчик",
+    "salary": {
+      "min": 50000.0,
+      "max": 150000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127891465",
+    "website": "hh.ru",
+    "employer": "Кузнецов Артур АБдулович",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T18:41:29+0300"
+  },
+  {
+    "name": "Backend-разработчик (офис)",
+    "salary": {
+      "min": 180000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127012693",
+    "website": "hh.ru",
+    "employer": "Европейская сантехника",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T16:12:23+0300"
+  },
+  {
+    "name": "Backend-разработчик (офис)",
+    "salary": {
+      "min": 150000.0,
+      "max": 220000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126997493",
+    "website": "hh.ru",
+    "employer": "Старт",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T14:17:19+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 120000.0,
+      "max": 140000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127865214",
+    "website": "hh.ru",
+    "employer": "Мир",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T11:39:53+0300"
+  },
+  {
+    "name": "Full Stack Разработчик / программист",
+    "salary": {
+      "min": 120000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127550503",
+    "website": "hh.ru",
+    "employer": "Цветочные Системы",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T20:00:26+0300"
+  },
+  {
+    "name": "Middle Backend разработчик (Rust)",
+    "salary": {
+      "min": 250000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127720397",
+    "website": "hh.ru",
+    "employer": "Стрит Фалькон",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T15:43:01+0300"
+  },
+  {
+    "name": "Программист-разработчик",
+    "salary": {
+      "min": 130500.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127967031",
+    "website": "hh.ru",
+    "employer": "Алабуга, ОЭЗ ППТ",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T15:33:19+0300"
+  },
+  {
+    "name": "Python backend developer",
+    "salary": {
+      "min": 280000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127862909",
+    "website": "hh.ru",
+    "employer": "Ритейл-Процессинг",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T11:04:36+0300"
+  },
+  {
+    "name": "Lead AI Engineer / Lead Разработчик (Интеграции + Data + AI-агент)",
+    "salary": {
+      "min": 200000.0,
+      "max": 400000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127989452",
+    "website": "hh.ru",
+    "employer": "РЕЦИКЛЕН",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T11:05:50+0300"
+  },
+  {
+    "name": "Rust-разработчик",
+    "salary": {
+      "min": 150000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127210628",
+    "website": "hh.ru",
+    "employer": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T11:55:03+0300"
+  },
+  {
+    "name": "Python-разработчик (scraping)",
+    "salary": {
+      "min": null,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127880879",
+    "website": "hh.ru",
+    "employer": "Компэл",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T15:30:09+0300"
+  },
+  {
+    "name": "Senior Full-stack-разработчик (VUE.js + Python)",
+    "salary": {
+      "min": 240000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127960368",
+    "website": "hh.ru",
+    "employer": "Юрробот",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T17:04:51+0300"
+  },
+  {
+    "name": "Python LLM разработчик",
+    "salary": {
+      "min": null,
+      "max": 240000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127861194",
+    "website": "hh.ru",
+    "employer": "Снэп АйТи",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T10:41:14+0300"
+  },
+  {
+    "name": "Младший тестировщик AQA (Python)",
+    "salary": {
+      "min": 60000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127414319",
+    "website": "hh.ru",
+    "employer": "Торговый Дом Максима",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T15:31:47+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 200000.0,
+      "max": 340000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127800577",
+    "website": "hh.ru",
+    "employer": "Community Tech Group",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T17:51:30+0300"
+  },
+  {
+    "name": "Разработчик Python",
+    "salary": {
+      "min": 200000.0,
+      "max": 287000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/87838855",
+    "website": "hh.ru",
+    "employer": "ProfiStaff",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T12:32:31+0300"
+  },
+  {
+    "name": "Разработчик COBOL",
+    "salary": {
+      "min": null,
+      "max": 9999.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127964418",
+    "website": "hh.ru",
+    "employer": "SellMeThisPen",
+    "experience": "Более 6 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-22T03:42:39+0300"
+  },
+  {
+    "name": "Middle Разработчик на C/C++ под Linux",
+    "salary": {
+      "min": 250000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127730101",
+    "website": "hh.ru",
+    "employer": "Квантбокс",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T18:10:52+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "salary": {
+      "min": 100000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127961612",
+    "website": "hh.ru",
+    "employer": "Гречко Егор Алексеевич",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T17:50:44+0300"
+  },
+  {
+    "name": "Embedded / OpenWRT разработчик",
+    "salary": {
+      "min": 250000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127209362",
+    "website": "hh.ru",
+    "employer": "Linki",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T11:31:49+0300"
+  },
+  {
+    "name": "Python Developer",
+    "salary": {
+      "min": 130000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127914773",
+    "website": "hh.ru",
+    "employer": "Сайбертех",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-20T13:03:57+0300"
+  },
+  {
+    "name": "Fullstack-разработчик (React, Python), Middle+",
+    "salary": {
+      "min": 200000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127870563",
+    "website": "hh.ru",
+    "employer": "Track Heroes Karting App",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T13:03:17+0300"
+  },
+  {
+    "name": "Junior Python разработчик",
+    "salary": {
+      "min": 80000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127787674",
+    "website": "hh.ru",
+    "employer": "Your CodeReview",
+    "experience": "Нет опыта",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-17T14:41:55+0300"
+  },
+  {
+    "name": "Team Lead разработчик",
+    "salary": {
+      "min": 230000.0,
+      "max": 260000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127962580",
+    "website": "hh.ru",
+    "employer": "Красный квадрат",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T18:45:49+0300"
+  },
+  {
+    "name": "Fullstack-разработчик (Python + React)",
+    "salary": {
+      "min": 300000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127839899",
+    "website": "hh.ru",
+    "employer": "English Nanny",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-18T16:24:21+0300"
+  },
+  {
+    "name": "Разработчик ИИ-агентов / AI Creator",
+    "salary": {
+      "min": 130000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127484955",
+    "website": "hh.ru",
+    "employer": "Toxic Media",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T15:48:56+0300"
+  },
+  {
+    "name": "Ведущий инженер-программист С/С++ (разработчик ПО для встраиваемых систем)",
+    "salary": {
+      "min": 400000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127778509",
+    "website": "hh.ru",
+    "employer": "Цифровая независимость",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T12:45:02+0300"
+  },
+  {
+    "name": "Java разработчик/Java Developer (стажер)",
+    "salary": {
+      "min": 62000.0,
+      "max": 72000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126649921",
+    "website": "hh.ru",
+    "employer": "Aston",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T14:03:20+0300"
+  },
+  {
+    "name": "Инженер-разработчик БПЛА Мультироторного типа",
+    "salary": {
+      "min": 150000.0,
+      "max": 180000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127870179",
+    "website": "hh.ru",
+    "employer": "Мацковский Иван Алексеевич",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T12:58:04+0300"
+  },
+  {
+    "name": "Разработчика (LLM, RAG)",
+    "salary": {
+      "min": 250000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127312199",
+    "website": "hh.ru",
+    "employer": "Август, Фирма",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T13:46:56+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 100000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127610193",
+    "website": "hh.ru",
+    "employer": "РОССИ",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-12T21:34:03+0300"
+  },
+  {
+    "name": "Инженер-разработчик ПЛИС (ППВМ, FPGA, VHDL / Verilog)",
+    "salary": {
+      "min": 100000.0,
+      "max": 230000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127654150",
+    "website": "hh.ru",
+    "employer": "НТЦ Радуга",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T16:47:18+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 230000.0,
+      "max": 340000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127577863",
+    "website": "hh.ru",
+    "employer": "AYA Group",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-12T12:14:40+0300"
+  },
+  {
+    "name": "Python Developer (LLM, RAG)",
+    "salary": {
+      "min": null,
+      "max": 320000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127906603",
+    "website": "hh.ru",
+    "employer": "Devhunt",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-20T10:49:53+0300"
+  },
+  {
+    "name": "Разработчик Middle C++ (навигация, алгоритмы фьюзинга сенсорных данных)",
+    "salary": {
+      "min": 150000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127241198",
+    "website": "hh.ru",
+    "employer": "Ориент Системс",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T19:06:07+0300"
+  },
+  {
+    "name": "Руководитель группы разработки (Python), Tech Lead",
+    "salary": {
+      "min": 395600.0,
+      "max": 550000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127933451",
+    "website": "hh.ru",
+    "employer": "Инсайдерлабс",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T06:58:45+0300"
+  },
+  {
+    "name": "Frontend-разработчик",
+    "salary": {
+      "min": 250000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127869919",
+    "website": "hh.ru",
+    "employer": "SHiFT AM",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T12:53:59+0300"
+  },
+  {
+    "name": "Разработчик на n8n",
+    "salary": {
+      "min": 40000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127961927",
+    "website": "hh.ru",
+    "employer": "ПП-продакшн",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T18:01:50+0300"
+  },
+  {
+    "name": "Backend-разработчик (Python) в AI-продукт JobReady",
+    "salary": {
+      "min": 252900.0,
+      "max": 344800.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127805104",
+    "website": "hh.ru",
+    "employer": "ДЖОБРЭДИ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-18T01:59:28+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": null,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127475289",
+    "website": "hh.ru",
+    "employer": "Domeo",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-10T13:21:16+0300"
+  },
+  {
+    "name": "Python-разработчик (Middle+)",
+    "salary": {
+      "min": null,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127603305",
+    "website": "hh.ru",
+    "employer": "Нейросетевые решения",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-12T16:26:02+0300"
+  },
+  {
+    "name": "Разработчик Vue js (middle)",
+    "salary": {
+      "min": null,
+      "max": 160000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127917881",
+    "website": "hh.ru",
+    "employer": "inno.team (ООО Инно)",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-20T13:57:31+0300"
+  },
+  {
+    "name": "Ведущий разработчик (Python, C#)",
+    "salary": {
+      "min": 294000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127633200",
+    "website": "hh.ru",
+    "employer": "Talent Pool",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-13T13:31:06+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "salary": {
+      "min": 180000.0,
+      "max": 230000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127805088",
+    "website": "hh.ru",
+    "employer": "Wet Dreams AI",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-18T01:58:58+0300"
+  },
+  {
+    "name": "Backend-developer (Python)",
+    "salary": {
+      "min": 70000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127798422",
+    "website": "hh.ru",
+    "employer": "Workmate",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T17:09:46+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 80000.0,
+      "max": 100000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127408399",
+    "website": "hh.ru",
+    "employer": "НПП МетаСофт Про",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-07T13:40:34+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": null,
+      "max": 150000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126276942",
+    "website": "hh.ru",
+    "employer": "ИЦ АЙ-ТЕКО",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T20:31:46+0300"
+  },
+  {
+    "name": "Junior backend-разработчик",
+    "salary": {
+      "min": 80000.0,
+      "max": 80000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127842609",
+    "website": "hh.ru",
+    "employer": "Fplus",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-18T17:12:30+0300"
+  },
+  {
+    "name": "Разработчик информационных систем на Oracle/Python",
+    "salary": {
+      "min": 150000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/122535294",
+    "website": "hh.ru",
+    "employer": "АНОВО МОСКОВСКИЙ МЕЖДУНАРОДНЫЙ УНИВЕРСИТЕТ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-14T11:47:24+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 350000.0,
+      "max": 450000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127335714",
+    "website": "hh.ru",
+    "employer": "INDEX",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T20:11:35+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 240000.0,
+      "max": 270000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127308161",
+    "website": "hh.ru",
+    "employer": "В Кадре",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T13:32:08+0300"
+  },
+  {
+    "name": "Senior Backend Engineer (Python)",
+    "salary": {
+      "min": 350000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127517491",
+    "website": "hh.ru",
+    "employer": "Дартс рекрутинг сервисез",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T15:41:17+0300"
+  },
+  {
+    "name": "Python - разработчик",
+    "salary": {
+      "min": 250000.0,
+      "max": 290000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127288327",
+    "website": "hh.ru",
+    "employer": "Бриф",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T11:12:36+0300"
+  },
+  {
+    "name": "Senior AI Инженер/Разработчик мультиагентной системы",
+    "salary": {
+      "min": 400000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127906488",
+    "website": "hh.ru",
+    "employer": "Консоль.Про",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-20T10:48:41+0300"
+  },
+  {
+    "name": "Ведущий разработчик / Senior backend developer (Python, Django)",
+    "salary": {
+      "min": 300000.0,
+      "max": 400000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127718642",
+    "website": "hh.ru",
+    "employer": "Absolut POS",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-14T15:12:46+0300"
+  },
+  {
+    "name": "Middle Python developer (Django/FastAPI) AdTech (в офисе)",
+    "salary": {
+      "min": 170000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127670091",
+    "website": "hh.ru",
+    "employer": "Hyper AdTech",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T14:40:29+0300"
+  },
+  {
+    "name": "ML Engineer / Data Science Developer (Python) / Дата-сайентист",
+    "salary": {
+      "min": 230000.0,
+      "max": 310000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127869537",
+    "website": "hh.ru",
+    "employer": "Rubbles",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T12:48:18+0300"
+  },
+  {
+    "name": "Инженер-разработчик программного обеспечения",
+    "salary": {
+      "min": null,
+      "max": 120000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127836820",
+    "website": "hh.ru",
+    "employer": "Робокс",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-18T15:28:18+0300"
+  },
+  {
+    "name": "Senior Python разработчик",
+    "salary": {
+      "min": 4000.0,
+      "max": 8000.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127390565",
+    "website": "hh.ru",
+    "employer": "High Sky",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-07T08:14:19+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": null,
+      "max": 150000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126776223",
+    "website": "hh.ru",
+    "employer": "РБ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-01T19:10:44+0300"
+  },
+  {
+    "name": "Python разработчик",
+    "salary": {
+      "min": null,
+      "max": 410000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127219369",
+    "website": "hh.ru",
+    "employer": "Аклион",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-01T15:11:46+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "salary": {
+      "min": 157500.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127734640",
+    "website": "hh.ru",
+    "employer": "Алабуга, ОЭЗ ППТ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-14T21:40:08+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": 120000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127196320",
+    "website": "hh.ru",
+    "employer": "Katenglish School",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Проектная работа",
+    "published_at": "2025-10-31T21:05:21+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "salary": {
+      "min": 157500.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127727187",
+    "website": "hh.ru",
+    "employer": "Алабуга, ОЭЗ ППТ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-14T17:18:59+0300"
+  },
+  {
+    "name": "Ведущий бэкенд-разработчик (Python)",
+    "salary": {
+      "min": null,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127408126",
+    "website": "hh.ru",
+    "employer": "ВТК СвязьСтрой",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-07T13:37:02+0300"
+  },
+  {
+    "name": "DWH Developer/Разработчик DWH",
+    "salary": {
+      "min": 400000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127786460",
+    "website": "hh.ru",
+    "employer": "Топассистент",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T14:25:49+0300"
+  },
+  {
+    "name": "Senior Python разработчик",
+    "salary": {
+      "min": 130000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/122493254",
+    "website": "hh.ru",
+    "employer": "Линсофтверпродакшн",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-04T17:28:00+0300"
+  },
+  {
+    "name": "Full-stack Java разработчик",
+    "salary": {
+      "min": 167000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127794056",
+    "website": "hh.ru",
+    "employer": "ФГБУ НЦЭСМП Минздрава России",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T16:00:52+0300"
+  },
+  {
+    "name": "Разработчик Python (Junior+ | Middle)",
+    "salary": {
+      "min": 150000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127370892",
+    "website": "hh.ru",
+    "employer": "UCar<>TopDoer",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T15:02:36+0300"
+  },
+  {
+    "name": "Python разработчик с ML",
+    "salary": {
+      "min": null,
+      "max": 240000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126318842",
+    "website": "hh.ru",
+    "employer": "ИЦ АЙ-ТЕКО",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T13:48:15+0300"
+  },
+  {
+    "name": "Python - разработчик",
+    "salary": {
+      "min": 270000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127019180",
+    "website": "hh.ru",
+    "employer": "Бриф",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-27T17:00:21+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "salary": {
+      "min": null,
+      "max": 600000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126967394",
+    "website": "hh.ru",
+    "employer": "Offer Now",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-27T10:13:40+0300"
+  },
+  {
+    "name": "Python разработчик (Автоматизация CAD)",
+    "salary": {
+      "min": 70000.0,
+      "max": 125000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127266864",
+    "website": "hh.ru",
+    "employer": "STORYGOLD AI, INC",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-04T22:15:25+0300"
+  },
+  {
+    "name": "Middle Python разработчик",
+    "salary": {
+      "min": null,
+      "max": 150000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127223289",
+    "website": "hh.ru",
+    "employer": "Лукьянова Елена Юрьевна",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-01T15:58:47+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "salary": {
+      "min": 40000.0,
+      "max": 50000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127606660",
+    "website": "hh.ru",
+    "employer": "NFCKEY",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-12T17:23:50+0300"
+  },
+  {
+    "name": "Full-Stack Python + Vue.js разработчик",
+    "salary": {
+      "min": 200000.0,
+      "max": 280000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/125539295",
+    "website": "hh.ru",
+    "employer": "FunFlow (ООО Мобильные Игровые Решения)",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-07T10:44:50+0300"
+  },
+  {
+    "name": "Python разработчик (LLM, FastAPI, микросервисы)",
+    "salary": {
+      "min": null,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127254705",
+    "website": "hh.ru",
+    "employer": "Меньщиков Павел Владимирович",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-03T15:26:01+0300"
+  },
+  {
+    "name": "Frontend Developer / Фронтэнд разработчик",
+    "salary": {
+      "min": 3000.0,
+      "max": 4000.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127709982",
+    "website": "hh.ru",
+    "employer": "Podscribe",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-14T13:07:51+0300"
+  },
+  {
+    "name": "Middle+ / Senior C# (. Net) разработчик",
+    "salary": {
+      "min": 150000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126627281",
+    "website": "hh.ru",
+    "employer": "Линсофтверпродакшн",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-15T17:48:53+0300"
+  },
+  {
+    "name": "Python-программист (Автоматизация публикаций)",
+    "salary": {
+      "min": null,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127354068",
+    "website": "hh.ru",
+    "employer": "ЛЕГАЛБЕТ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T10:52:29+0300"
+  },
+  {
+    "name": "ML-разработчик",
+    "salary": {
+      "min": 120000.0,
+      "max": 180000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127408299",
+    "website": "hh.ru",
+    "employer": "НПП МетаСофт Про",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-07T13:39:14+0300"
+  },
+  {
+    "name": "Middle Backend Разработчик (Python)",
+    "salary": {
+      "min": 220000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127009263",
+    "website": "hh.ru",
+    "employer": "Inline Telecom Solutions",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-27T15:48:23+0300"
+  },
+  {
+    "name": "Senior Разработчик C++ (сетевые сервисы)",
+    "salary": {
+      "min": null,
+      "max": 500000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127690948",
+    "website": "hh.ru",
+    "employer": "SmartyHR",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-13T23:22:29+0300"
+  },
+  {
+    "name": "Python Developer",
+    "salary": {
+      "min": 300000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126054919",
+    "website": "hh.ru",
+    "employer": "Медиа-Майн",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-01T10:13:21+0300"
+  },
+  {
+    "name": "Golang-разработчик",
+    "salary": {
+      "min": 275400.0,
+      "max": 344800.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127383239",
+    "website": "hh.ru",
+    "employer": "Щедрин Алексей Анатольевич",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T18:01:05+0300"
+  },
+  {
+    "name": "Разработчик laravel",
+    "salary": {
+      "min": 50000.0,
+      "max": 100000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127345905",
+    "website": "hh.ru",
+    "employer": "Бордаковский Антон Робертович",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Проектная работа",
+    "published_at": "2025-11-06T09:00:40+0300"
+  },
+  {
+    "name": "Full-Stack разработчик (Python + Vue)",
+    "salary": {
+      "min": 200000.0,
+      "max": 400000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127157690",
+    "website": "hh.ru",
+    "employer": "Xenon-Marketing",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-10-30T17:15:09+0300"
+  },
+  {
+    "name": "Разработчик бэкенда в Заботу",
+    "salary": {
+      "min": 250000.0,
+      "max": 550000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127463219",
+    "website": "hh.ru",
+    "employer": "Яндекс",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-10T11:19:33+0300"
+  },
+  {
+    "name": "Инженер разработчик FPGA/ПЛИС",
+    "salary": {
+      "min": 65000.0,
+      "max": 170000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/117522863",
+    "website": "hh.ru",
+    "employer": "НТЦ ЭЛИНС",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-10T08:24:50+0300"
+  },
+  {
+    "name": "React Native разработчик",
+    "salary": {
+      "min": 150000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127423493",
+    "website": "hh.ru",
+    "employer": "Itprostudio",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-08T00:05:43+0300"
+  },
+  {
+    "name": "Ведущий инженер разработчик FPGA/ПЛИС",
+    "salary": {
+      "min": 130000.0,
+      "max": 260000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/86652003",
+    "website": "hh.ru",
+    "employer": "НТЦ ЭЛИНС",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-10T08:24:50+0300"
+  },
+  {
+    "name": "Младший разработчик (вайбкодер, по работе с ИИ инструментами)",
+    "salary": {
+      "min": 50000.0,
+      "max": 80000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127619010",
+    "website": "hh.ru",
+    "employer": "Специальная Проектная Компания Горный",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-13T09:37:09+0300"
+  },
+  {
+    "name": "Fullstack developer (Python / React; PHP / React)",
+    "salary": {
+      "min": 200000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127399627",
+    "website": "hh.ru",
+    "employer": "kt.team",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-07T11:08:41+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "salary": {
+      "min": 120000.0,
+      "max": 130000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127125992",
+    "website": "hh.ru",
+    "employer": "Sprouter Technologies Inc.",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-30T07:09:40+0300"
+  },
+  {
+    "name": "Analyst-developer",
+    "salary": {
+      "min": 120000.0,
+      "max": 180000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/128021438",
+    "website": "hh.ru",
+    "employer": "Кадровое агентство Candidate",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T18:46:07+0300"
+  },
+  {
+    "name": "Разработчик баз данных PostgreSQL",
+    "salary": {
+      "min": 150000.0,
+      "max": 180000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126550607",
+    "website": "hh.ru",
+    "employer": "ЕС-лизинг софт",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T18:15:37+0300"
+  },
+  {
+    "name": "Разработчик Linux",
+    "salary": {
+      "min": 250000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127056236",
+    "website": "hh.ru",
+    "employer": "Эль Пять",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-28T12:54:21+0300"
+  },
+  {
+    "name": "Senior Backend/Fullstack .NET Developer",
+    "salary": {
+      "min": 160000.0,
+      "max": 220000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/128013172",
+    "website": "hh.ru",
+    "employer": "Леонова Татьяна Александровна",
+    "experience": "От 3 до 6 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-24T16:12:23+0300"
+  },
+  {
+    "name": "Старший разработчик С++ (Team Lead)",
+    "salary": {
+      "min": 300000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126835878",
+    "website": "hh.ru",
+    "employer": "РОССИ",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-07T15:40:21+0300"
+  },
+  {
+    "name": "Tech Lead на курс \"Python-разработчик\" в онлайн-университет SkyPro",
+    "salary": {
+      "min": 55000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127019192",
+    "website": "hh.ru",
+    "employer": "Skyeng",
+    "experience": "От 3 до 6 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-10-27T17:00:25+0300"
+  },
+  {
+    "name": "Backend developer (Senior/Lead)",
+    "salary": {
+      "min": 250000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127061478",
+    "website": "hh.ru",
+    "employer": "Hello, Doc!",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T13:45:12+0300"
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "salary": {
+      "min": 100000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126970629",
+    "website": "hh.ru",
+    "employer": "HomeOffer",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-27T10:52:42+0300"
+  },
+  {
+    "name": "Ассистент разработчика",
+    "salary": {
+      "min": 40000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126970504",
+    "website": "hh.ru",
+    "employer": "HomeOffer",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-27T10:51:09+0300"
+  },
+  {
+    "name": "DWH Developer (Middle+), страхование",
+    "salary": {
+      "min": null,
+      "max": 2240.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127823539",
+    "website": "hh.ru",
+    "employer": "SkillStaff",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T13:54:16+0300"
+  },
+  {
+    "name": "Java разработчик с нуля (ученик)",
+    "salary": {
+      "min": 62000.0,
+      "max": 72000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127360803",
+    "website": "hh.ru",
+    "employer": "Aston",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T12:11:52+0300"
+  },
+  {
+    "name": "JavaScript/TypeScript разработчик",
+    "salary": {
+      "min": null,
+      "max": 120000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127160761",
+    "website": "hh.ru",
+    "employer": "AG Soft",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-30T19:59:49+0300"
+  },
+  {
+    "name": "Разработчик/инженер машинного обучения / ML Engineer",
+    "salary": {
+      "min": null,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127379557",
+    "website": "hh.ru",
+    "employer": "Городской информационный центр Инфосити",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T17:29:11+0300"
+  },
+  {
+    "name": "Junior Web-разработчик / Fullstack-разработчик",
+    "salary": {
+      "min": 70000.0,
+      "max": 100000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127045002",
+    "website": "hh.ru",
+    "employer": "Рекрутинговое агентство The One",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-28T10:12:55+0300"
+  },
+  {
+    "name": "Администратор баз данных ClickHouse",
+    "salary": {
+      "min": 400000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127539346",
+    "website": "hh.ru",
+    "employer": "Топассистент",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T11:03:10+0300"
+  },
+  {
+    "name": "Программист/ разработчик баз данных PostgreSQL",
+    "salary": {
+      "min": 90000.0,
+      "max": 130000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127305313",
+    "website": "hh.ru",
+    "employer": "ВИНИТИ РАН",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T12:52:54+0300"
+  },
+  {
+    "name": "Web-разработчик/программист",
+    "salary": {
+      "min": 130000.0,
+      "max": 130000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127157619",
+    "website": "hh.ru",
+    "employer": "Московский центр развития спортивной инфраструктуры",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-30T17:13:26+0300"
+  },
+  {
+    "name": "Senior Backend Engineer / Старший бэкэнд разработчик",
+    "salary": {
+      "min": 5000.0,
+      "max": 12000.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127368328",
+    "website": "hh.ru",
+    "employer": "Podscribe",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T14:14:06+0300"
+  },
+  {
+    "name": "Разработчик алгоритмов цифрового зрения на C++",
+    "salary": {
+      "min": 100000.0,
+      "max": 160000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127358447",
+    "website": "hh.ru",
+    "employer": "NVI Solutions LLC",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T11:35:04+0300"
+  },
+  {
+    "name": "Senior Frontend Developer / Старший фронтэнд разработчик",
+    "salary": {
+      "min": 5000.0,
+      "max": 10000.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127362567",
+    "website": "hh.ru",
+    "employer": "Podscribe",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T12:38:53+0300"
+  },
+  {
+    "name": "Middle backend-разработчик",
+    "salary": {
+      "min": null,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127113706",
+    "website": "hh.ru",
+    "employer": "Wildbox",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-29T15:45:31+0300"
+  },
+  {
+    "name": "Ведущий it-разработчик (AI) туристической платформы",
+    "salary": {
+      "min": 15000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127365068",
+    "website": "hh.ru",
+    "employer": "Благодар",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T13:18:54+0300"
+  },
+  {
+    "name": "Ведущий инженер-разработчик",
+    "salary": {
+      "min": 200000.0,
+      "max": 230000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127110668",
+    "website": "hh.ru",
+    "employer": "Русские базовые информационные технологии, Научно-производственное объединение",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-29T14:59:08+0300"
+  },
+  {
+    "name": "Jira Разработчик / Инженер по интеграции и администрированию",
+    "salary": {
+      "min": 100000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127414462",
+    "website": "hh.ru",
+    "employer": "Зенит-Брокер",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-07T15:34:31+0300"
+  },
+  {
+    "name": "Data Engineer middle",
+    "salary": {
+      "min": null,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127988572",
+    "website": "hh.ru",
+    "employer": "ИЦ АЙ-ТЕКО",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T10:54:16+0300"
+  },
+  {
+    "name": "Разработчик встраиваемых систем и компьютерного зрения (middle)",
+    "salary": {
+      "min": 487500.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127118812",
+    "website": "hh.ru",
+    "employer": "Алабуга, ОЭЗ ППТ",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T11:36:28+0300"
+  },
+  {
+    "name": "Ведущий Backend-разработчик",
+    "salary": {
+      "min": 250000.0,
+      "max": 350000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127025644",
+    "website": "hh.ru",
+    "employer": "МСН Телеком",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-27T17:46:33+0300"
+  },
+  {
+    "name": "Senior QA-Engineer (Auto, Python)",
+    "salary": {
+      "min": 220000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126985941",
+    "website": "hh.ru",
+    "employer": "Live Typing",
+    "experience": "Более 6 лет",
+    "employment": "Проектная работа",
+    "published_at": "2025-10-27T12:50:34+0300"
+  },
+  {
+    "name": "Разработчик n8n (AI-чат-боты)",
+    "salary": {
+      "min": 1000.0,
+      "max": 2000.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127340156",
+    "website": "hh.ru",
+    "employer": "ДИАМАНТ ВИЖН",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-06T06:25:23+0300"
+  },
+  {
+    "name": "DevOps-инженер (Middle)",
+    "salary": {
+      "min": 250000.0,
+      "max": 280000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127845004",
+    "website": "hh.ru",
+    "employer": "Riverstart (ООО Риверстарт)",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T18:13:45+0300"
+  },
+  {
+    "name": "Программист-разработчик интерфейсов отчётности (Frontend + SQL)",
+    "salary": {
+      "min": 140000.0,
+      "max": 180000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127269051",
+    "website": "hh.ru",
+    "employer": "Кроссмедиахаб",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T03:27:32+0300"
+  },
+  {
+    "name": "Junior Data Analyst (Python) / Аналитик данных",
+    "salary": {
+      "min": 80000.0,
+      "max": 100000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127063326",
+    "website": "hh.ru",
+    "employer": "Rubbles",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-28T14:14:38+0300"
+  },
+  {
+    "name": "Младший разработчик R&D AI (Junior AI/LLM Engineer)",
+    "salary": {
+      "min": null,
+      "max": 170000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127419386",
+    "website": "hh.ru",
+    "employer": "Рекламное Агентство Смарт Консалтинг",
+    "experience": "Нет опыта",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-07T17:09:32+0300"
+  },
+  {
+    "name": "Fullstack-разработчик (Angular) / MES-система",
+    "salary": {
+      "min": 250000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127192645",
+    "website": "hh.ru",
+    "employer": "Кью-центр",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-31T17:40:02+0300"
+  },
+  {
+    "name": "Аналитик (Технический писатель на pentest-отчеты)",
+    "salary": {
+      "min": 90000.0,
+      "max": 120000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127384850",
+    "website": "hh.ru",
+    "employer": "CyberOK",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T19:28:54+0300"
+  },
+  {
+    "name": "Специалист по предиктивной аналитике",
+    "salary": {
+      "min": 250000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/128008125",
+    "website": "hh.ru",
+    "employer": "Всегда.Да",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T15:05:23+0300"
+  },
+  {
+    "name": "Junior Data Scientist (Python, ML) / Дата-сайентист",
+    "salary": {
+      "min": 80000.0,
+      "max": 100000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127063385",
+    "website": "hh.ru",
+    "employer": "Rubbles",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-28T14:15:12+0300"
+  },
+  {
+    "name": "Разработчик аналитических панелей (Форсайт)",
+    "salary": {
+      "min": 100000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126948839",
+    "website": "hh.ru",
+    "employer": "Линасофт",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Проектная работа",
+    "published_at": "2025-10-26T20:55:58+0300"
+  },
+  {
+    "name": "Аналитик данных (офис)",
+    "salary": {
+      "min": 135000.0,
+      "max": 135000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127050528",
+    "website": "hh.ru",
+    "employer": "Совкомбанк Страхование",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T10:07:19+0300"
+  },
+  {
+    "name": "Руководитель отдела отчетности",
+    "salary": {
+      "min": 200000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126352374",
+    "website": "hh.ru",
+    "employer": "Staffberry",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T10:49:26+0300"
+  },
+  {
+    "name": "Разработчик C/C++ Embedded (Senior)",
+    "salary": {
+      "min": 250000.0,
+      "max": 320000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127073676",
+    "website": "hh.ru",
+    "employer": "Версус Геймс",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-28T16:13:18+0300"
+  },
+  {
+    "name": "PR-менеджер",
+    "salary": {
+      "min": 130000.0,
+      "max": 150000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127187943",
+    "website": "hh.ru",
+    "employer": "Национальный исследовательский университет Высшая школа экономики",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T18:21:18+0300"
+  },
+  {
+    "name": "Team Lead DevOps (заместитель начальника отдела)",
+    "salary": {
+      "min": 370000.0,
+      "max": 416000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127802647",
+    "website": "hh.ru",
+    "employer": "Diamond Personnel R&C",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T09:07:33+0300"
+  },
+  {
+    "name": "Аналитик данных",
+    "salary": {
+      "min": 100000.0,
+      "max": 120000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127213928",
+    "website": "hh.ru",
+    "employer": "Национальный исследовательский университет Высшая школа экономики",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T18:21:27+0300"
+  },
+  {
+    "name": "Системный архитектор / Tech Lead (SaaS + AI)",
+    "salary": {
+      "min": null,
+      "max": 400000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127134125",
+    "website": "hh.ru",
+    "employer": "Митрофанов Евгений Николаевич",
+    "experience": "От 3 до 6 лет",
+    "employment": "Проектная работа",
+    "published_at": "2025-11-23T10:20:11+0300"
+  },
+  {
+    "name": "Middle ML разработчик в сервис предсказательной аналитики (киберспорт)",
+    "salary": {
+      "min": 2000.0,
+      "max": null,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127119257",
+    "website": "hh.ru",
+    "employer": "Лалиев Никита Алексеевич",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-29T17:22:12+0300"
+  },
+  {
+    "name": "Программист - Тьютор / Наставник Школы Программирования для детей",
+    "salary": {
+      "min": 800.0,
+      "max": 1400.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127837345",
+    "website": "hh.ru",
+    "employer": "IT-Школа для детей KIBERone (ИП Смирнова Татьяна Михайловна)",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-24T15:37:00+0300"
+  },
+  {
+    "name": "AI Full-Stack разработчик / AI-инженер / Главный специалист по ИИ",
+    "salary": {
+      "min": 40000.0,
+      "max": 130000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127213554",
+    "website": "hh.ru",
+    "employer": "Черненко Сергей Владимирович",
+    "experience": "От 3 до 6 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-01T12:53:26+0300"
+  },
+  {
+    "name": "Инженер технической поддержки",
+    "salary": {
+      "min": null,
+      "max": 270000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127787550",
+    "website": "hh.ru",
+    "employer": "Латера",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T14:39:58+0300"
+  },
+  {
+    "name": "Ведущий специалист Группы технической поддержки (Linux-сервера)",
+    "salary": {
+      "min": 73950.0,
+      "max": 86275.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127816001",
+    "website": "hh.ru",
+    "employer": "СК СОГАЗ-Мед",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T08:51:58+0300"
+  },
+  {
+    "name": "Ведущий разработчик искусственного интеллекта/Middle Data scientist",
+    "salary": {
+      "min": 180000.0,
+      "max": 180000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126970916",
+    "website": "hh.ru",
+    "employer": "Геномед",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-27T10:56:35+0300"
+  },
+  {
+    "name": "Senior Data Engineer (Web3)",
+    "salary": {
+      "min": 4000.0,
+      "max": 5000.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127991129",
+    "website": "hh.ru",
+    "employer": "RateXAi Scoring Systems (ИП Гусев Юрий Михайлович)",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T11:26:11+0300"
+  },
+  {
+    "name": "Unreal Developer",
+    "salary": {
+      "min": 80000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127325114",
+    "website": "hh.ru",
+    "employer": "Григорьев Максим Александрович",
+    "experience": "Нет опыта",
+    "employment": "Проектная работа",
+    "published_at": "2025-11-23T16:18:45+0300"
+  },
+  {
+    "name": "Backend-разработчик (FastAPI, PostgreSQL, Парсинг крупнейших площадок недвижимос",
+    "salary": {
+      "min": 80000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127077767",
+    "website": "hh.ru",
+    "employer": "HomeOffer",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-28T17:28:06+0300"
+  },
+  {
+    "name": "Личный ассистент технологического предпринимателя",
+    "salary": {
+      "min": 150000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127943836",
+    "website": "hh.ru",
+    "employer": "HRassistant (ИП Кузнецова Ирина Андреевна)",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-24T11:26:31+0300"
+  },
+  {
+    "name": "Специалист по обучению и настройке АУДИО-нейросетей (ML инженер)",
+    "salary": {
+      "min": 120000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127493424",
+    "website": "hh.ru",
+    "employer": "Научно-Технический Центр Корней",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T19:07:19+0300"
+  },
+  {
+    "name": "Специалист по обучению нейросетей для анализа ВИДЕОпотока (ML инженер)",
+    "salary": {
+      "min": 120000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127493426",
+    "website": "hh.ru",
+    "employer": "Научно-Технический Центр Корней",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T19:07:20+0300"
+  },
+  {
+    "name": "Операционный риск-саппорт",
+    "salary": {
+      "min": 70000.0,
+      "max": 100000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127777578",
+    "website": "hh.ru",
+    "employer": "ADF Capital",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T12:35:48+0300"
+  },
+  {
+    "name": "Senior Программист C/С++",
+    "salary": {
+      "min": 400000.0,
+      "max": 600000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127028261",
+    "website": "hh.ru",
+    "employer": "AERODISK",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T19:13:00+0300"
+  },
+  {
+    "name": "Project Coordinator",
+    "salary": {
+      "min": 100000.0,
+      "max": 120000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127158660",
+    "website": "hh.ru",
+    "employer": "РА Дельта",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T17:30:00+0300"
+  },
+  {
+    "name": "Data Engineer (Дата-инженер)",
+    "salary": {
+      "min": 100000.0,
+      "max": 160000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126972396",
+    "website": "hh.ru",
+    "employer": "Скайтек",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T11:11:42+0300"
+  },
+  {
+    "name": "Data Engineer",
+    "salary": {
+      "min": 260000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127969822",
+    "website": "hh.ru",
+    "employer": "ROSSKO",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T11:23:49+0300"
+  },
+  {
+    "name": "Инженер по информационной безопасности",
+    "salary": {
+      "min": 300000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127311437",
+    "website": "hh.ru",
+    "employer": "УКП",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T14:16:32+0300"
+  },
+  {
+    "name": "QA Lead / Руководитель команды тестирования",
+    "salary": {
+      "min": 200000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127151147",
+    "website": "hh.ru",
+    "employer": "Ябби",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T15:00:15+0300"
+  },
+  {
+    "name": "DevOps-инженер",
+    "salary": {
+      "min": 250000.0,
+      "max": 400000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127658742",
+    "website": "hh.ru",
+    "employer": "Freedom International Group",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T17:12:09+0300"
+  },
+  {
+    "name": "Старший инженер отдела эксплуатации",
+    "salary": {
+      "min": 130000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/125967537",
+    "website": "hh.ru",
+    "employer": "Контроль ИТ",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T14:59:54+0300"
+  },
+  {
+    "name": "Middle QA Engineer (Web / API)",
+    "salary": {
+      "min": 180000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127731474",
+    "website": "hh.ru",
+    "employer": "Чатапп",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T18:45:11+0300"
+  },
+  {
+    "name": "Технический директор (CTO) IGaming",
+    "salary": {
+      "min": null,
+      "max": 8000.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127957082",
+    "website": "hh.ru",
+    "employer": "Bcraft",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T15:48:17+0300"
+  },
+  {
+    "name": "Тестировщик-автоматизатор",
+    "salary": {
+      "min": 110000.0,
+      "max": 150000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127633068",
+    "website": "hh.ru",
+    "employer": "Информационная внедренческая компания",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T13:28:27+0300"
+  },
+  {
+    "name": "Инженер технической поддержки ОС Альт",
+    "salary": {
+      "min": 120000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127110634",
+    "website": "hh.ru",
+    "employer": "Информационная внедренческая компания",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T14:58:26+0300"
+  },
+  {
+    "name": "Руководитель продаж на маркетплейсах",
+    "salary": {
+      "min": 120000.0,
+      "max": 160000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127121309",
+    "website": "hh.ru",
+    "employer": "Stylint",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T18:06:34+0300"
+  },
+  {
+    "name": "Администратор Linux",
+    "salary": {
+      "min": 150000.0,
+      "max": 150000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127923563",
+    "website": "hh.ru",
+    "employer": "Московский авиационный институт (национальный исследовательский университет)",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-20T15:51:24+0300"
+  },
+  {
+    "name": "Ruby Developer",
+    "salary": {
+      "min": null,
+      "max": 260000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127923812",
+    "website": "hh.ru",
+    "employer": "evrone.ru",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-23T15:57:07+0300"
+  },
+  {
+    "name": "DevOps-инженер",
+    "salary": {
+      "min": null,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127482248",
+    "website": "hh.ru",
+    "employer": "НТЦ ЕЭС Информационные Комплексы",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T15:06:25+0300"
+  },
+  {
+    "name": "Senior AI Engineer (text, voice)",
+    "salary": {
+      "min": null,
+      "max": 360000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127638621",
+    "website": "hh.ru",
+    "employer": "evrone.ru",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T15:04:59+0300"
+  },
+  {
+    "name": "Преподаватель программирования в детскую IT-школу (Красногорск)",
+    "salary": {
+      "min": 50000.0,
+      "max": 150000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127495373",
+    "website": "hh.ru",
+    "employer": "Кибершкола KIBERone (Макеев Сергей)",
+    "experience": "Нет опыта",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-23T00:36:58+0300"
+  },
+  {
+    "name": "Специалист по имитационному моделированию (AnyLogic)",
+    "salary": {
+      "min": 120000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127858380",
+    "website": "hh.ru",
+    "employer": "Координационный совет по логистике",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T10:00:38+0300"
+  },
+  {
+    "name": "Системный аналитик",
+    "salary": {
+      "min": null,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/125236668",
+    "website": "hh.ru",
+    "employer": "Фокус Технологии",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T16:05:12+0300"
+  },
+  {
+    "name": "DevOps Linux / Kubernetes инженер",
+    "salary": {
+      "min": 200000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127112520",
+    "website": "hh.ru",
+    "employer": "РА Дельта",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T15:27:26+0300"
+  },
+  {
+    "name": "С++ Программист (ML Engineer / Data Scientist, видеоаналитик)",
+    "salary": {
+      "min": 200000.0,
+      "max": 350000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127937387",
+    "website": "hh.ru",
+    "employer": "НЭПТ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T09:18:09+0300"
+  },
+  {
+    "name": "Backend Developer Golang (офис)",
+    "salary": {
+      "min": 230000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127804147",
+    "website": "hh.ru",
+    "employer": "Alta Personnel",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T21:42:20+0300"
+  },
+  {
+    "name": "Старший программист (математик-алгоритмист)",
+    "salary": {
+      "min": 200000.0,
+      "max": 270000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127965063",
+    "website": "hh.ru",
+    "employer": "НЭПТ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T08:15:37+0300"
+  },
+  {
+    "name": "Автотестировщик / QA-engineer",
+    "salary": {
+      "min": null,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127954371",
+    "website": "hh.ru",
+    "employer": "ВижнЛабс (VisionLabs)",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T14:53:39+0300"
+  },
+  {
+    "name": "DevOps-инженер",
+    "salary": {
+      "min": 200000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127926469",
+    "website": "hh.ru",
+    "employer": "24 часа ТВ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-20T16:56:40+0300"
+  },
+  {
+    "name": "DevOps-инженер",
+    "salary": {
+      "min": 200000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127907707",
+    "website": "hh.ru",
+    "employer": "Vital Partners",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-20T11:05:15+0300"
+  },
+  {
+    "name": "DevOps-инженер",
+    "salary": {
+      "min": 300000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126806927",
+    "website": "hh.ru",
+    "employer": "Интерком",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-20T10:50:43+0300"
+  },
+  {
+    "name": "DevOps engineer",
+    "salary": {
+      "min": 300000.0,
+      "max": 420000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127090087",
+    "website": "hh.ru",
+    "employer": "Клируэй Текнолоджис",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T09:24:22+0300"
+  },
+  {
+    "name": "МЛ инженер",
+    "salary": {
+      "min": 300000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127417934",
+    "website": "hh.ru",
+    "employer": "ЭКО центр АльтраВита",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T12:33:38+0300"
+  },
+  {
+    "name": "Начальник отдела разработки продукта (микроэлектроника)",
+    "salary": {
+      "min": 200000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126786255",
+    "website": "hh.ru",
+    "employer": "СП Квант",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-20T11:14:42+0300"
+  },
+  {
+    "name": "Аналитик Apache Superset",
+    "salary": {
+      "min": 100000.0,
+      "max": 150000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127874489",
+    "website": "hh.ru",
+    "employer": "Advertmed",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T14:05:18+0300"
+  },
+  {
+    "name": "Middle backend developer",
+    "salary": {
+      "min": 300000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127817912",
+    "website": "hh.ru",
+    "employer": "SHiFT AM",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-18T10:29:39+0300"
+  },
+  {
+    "name": "Младший программист(Junior) / Администратор информационных систем",
+    "salary": {
+      "min": 150000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/125978240",
+    "website": "hh.ru",
+    "employer": "ФГБУ ФНКЦ специализированных видов медицинской помощи и медицинских технологий ФМБА России",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-21T09:44:53+0300"
+  },
+  {
+    "name": "Ведущий аналитик / data Engineer / аналитик данных (middle)",
+    "salary": {
+      "min": 100000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127213450",
+    "website": "hh.ru",
+    "employer": "Бризекс",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-22T12:50:12+0300"
+  },
+  {
+    "name": "DevOps инженер",
+    "salary": {
+      "min": 200000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127799482",
+    "website": "hh.ru",
+    "employer": "Лукиту",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T17:28:11+0300"
+  },
+  {
+    "name": "Системный программист (Linux-like systems, kernel)",
+    "salary": {
+      "min": 300000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/90599147",
+    "website": "hh.ru",
+    "employer": "UserGate",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T12:57:28+0300"
+  },
+  {
+    "name": "Senior Full Stack Developer",
+    "salary": {
+      "min": 3000.0,
+      "max": null,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127920706",
+    "website": "hh.ru",
+    "employer": "Have Marketing",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-20T14:58:20+0300"
+  },
+  {
+    "name": "Data Analyst / Аналитик данных (ETL & Data Collection)",
+    "salary": {
+      "min": 150000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127804244",
+    "website": "hh.ru",
+    "employer": "Уфимцева Ольга Сергеевна",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T22:07:27+0300"
+  },
+  {
+    "name": "Junior Data Analyst/Аналитик данных",
+    "salary": {
+      "min": 90000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127825352",
+    "website": "hh.ru",
+    "employer": "СОФИ И ПАРТНЕРЫ",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-18T12:15:11+0300"
+  },
+  {
+    "name": "Senior Data Engineer (Офис)",
+    "salary": {
+      "min": null,
+      "max": 280000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127864632",
+    "website": "hh.ru",
+    "employer": "ИЦ АЙ-ТЕКО",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T11:30:44+0300"
+  },
+  {
+    "name": "Технический директор (CTO)",
+    "salary": {
+      "min": 250000.0,
+      "max": 350000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127874484",
+    "website": "hh.ru",
+    "employer": "Advertmed",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T14:05:18+0300"
+  },
+  {
+    "name": "Менеджер по продажам IT (заказная разработка, B2B)",
+    "salary": {
+      "min": 150000.0,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126538083",
+    "website": "hh.ru",
+    "employer": "Энсайн (Nsign.ru)",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T14:54:26+0300"
+  },
+  {
+    "name": "Ведущий программист Postgres",
+    "salary": {
+      "min": 310000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127561464",
+    "website": "hh.ru",
+    "employer": "ЦФР",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-12T09:24:54+0300"
+  },
+  {
+    "name": "Автор курсов по дисциплине \"Тестирование Web-приложений\" в IT-колледже Maxitet",
+    "salary": {
+      "min": 30000.0,
+      "max": 60000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127832940",
+    "website": "hh.ru",
+    "employer": "MAXIMUM",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-18T14:20:41+0300"
+  },
+  {
+    "name": "Автор курсов по дисциплине Машинное обучение IT-колледже Maxitet (ML)",
+    "salary": {
+      "min": 30000.0,
+      "max": 60000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127832800",
+    "website": "hh.ru",
+    "employer": "MAXIMUM",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-18T14:18:19+0300"
+  },
+  {
+    "name": "Product Analyst / Marketing Analyst",
+    "salary": {
+      "min": 260000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127822917",
+    "website": "hh.ru",
+    "employer": "ROSSKO",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-18T11:38:24+0300"
+  },
+  {
+    "name": "Senior Product Data Scientist",
+    "salary": {
+      "min": 5000.0,
+      "max": 8000.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127824710",
+    "website": "hh.ru",
+    "employer": "ArtWorkout",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-18T12:04:55+0300"
+  },
+  {
+    "name": "Architect интеграции (временный проект до 6 месяцев)",
+    "salary": {
+      "min": null,
+      "max": 450000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127825621",
+    "website": "hh.ru",
+    "employer": "CORE",
+    "experience": "Более 6 лет",
+    "employment": "Проектная работа",
+    "published_at": "2025-11-18T12:18:48+0300"
+  },
+  {
+    "name": "Системный администратор Linux",
+    "salary": {
+      "min": 250000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127025423",
+    "website": "hh.ru",
+    "employer": "МСН Телеком",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T02:44:07+0300"
+  },
+  {
+    "name": "Senior Manual QA специалист",
+    "salary": {
+      "min": 80000.0,
+      "max": 130000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/118713094",
+    "website": "hh.ru",
+    "employer": "Линсофтверпродакшн",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-19T13:11:35+0300"
+  },
+  {
+    "name": "Руководитель группы разработки web приложений (Team Lead)",
+    "salary": {
+      "min": null,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126479244",
+    "website": "hh.ru",
+    "employer": "Автономные Технологии",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-11T14:09:23+0300"
+  },
+  {
+    "name": "DevOps Engineer",
+    "salary": {
+      "min": 250000.0,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127770594",
+    "website": "hh.ru",
+    "employer": "Доксинбокс",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T11:10:00+0300"
+  },
+  {
+    "name": "Voice AI Engineer (Middle / Senior Track)",
+    "salary": {
+      "min": 180000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127741630",
+    "website": "hh.ru",
+    "employer": "ЛОМИДЗЕ МАРИАМ МАМУКОВНА",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-15T09:18:45+0300"
+  },
+  {
+    "name": "Преподаватель IT дисциплин, тренер, эксперт",
+    "salary": {
+      "min": 2000.0,
+      "max": 2500.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127844608",
+    "website": "hh.ru",
+    "employer": "IBS",
+    "experience": "Более 6 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-18T18:01:35+0300"
+  },
+  {
+    "name": "Тестировщик ПО",
+    "salary": {
+      "min": 140000.0,
+      "max": 170000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126577238",
+    "website": "hh.ru",
+    "employer": "Inline Telecom Solutions",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-12T12:42:19+0300"
+  },
+  {
+    "name": "Lead Backend Engineer",
+    "salary": {
+      "min": 300000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127627541",
+    "website": "hh.ru",
+    "employer": "UP business",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-13T11:56:31+0300"
+  },
+  {
+    "name": "Инженер технической поддержки и внедрения ПО",
+    "salary": {
+      "min": null,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127708968",
+    "website": "hh.ru",
+    "employer": "Маквес Групп",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-14T12:47:33+0300"
+  },
+  {
+    "name": "Middle QA-инженер / Тестировщик",
+    "salary": {
+      "min": 110000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127718739",
+    "website": "hh.ru",
+    "employer": "BrandLink",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-14T15:14:52+0300"
+  },
+  {
+    "name": "Аналитик данных Middle +",
+    "salary": {
+      "min": null,
+      "max": 340000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127779249",
+    "website": "hh.ru",
+    "employer": "ГК Орбита",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T15:29:20+0300"
+  },
+  {
+    "name": "AI-инженер",
+    "salary": {
+      "min": null,
+      "max": 320000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/125616201",
+    "website": "hh.ru",
+    "employer": "Точка Банк",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-18T16:30:45+0300"
+  },
+  {
+    "name": "Ведущий инженер",
+    "salary": {
+      "min": 130000.0,
+      "max": 160000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127619923",
+    "website": "hh.ru",
+    "employer": "Концерн Созвездие",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-13T09:52:53+0300"
+  },
+  {
+    "name": "Project manager (middle+)",
+    "salary": {
+      "min": 180000.0,
+      "max": 210000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127828957",
+    "website": "hh.ru",
+    "employer": "Амига",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-18T13:17:39+0300"
+  },
+  {
+    "name": "DevOps Engineer",
+    "salary": {
+      "min": 110000.0,
+      "max": 140000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127608850",
+    "website": "hh.ru",
+    "employer": "М1НТ",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-12T18:42:49+0300"
+  },
+  {
+    "name": "Аналитик AIOps",
+    "salary": {
+      "min": 350000.0,
+      "max": 420000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127731131",
+    "website": "hh.ru",
+    "employer": "ГК Орбита",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-14T18:34:33+0300"
+  },
+  {
+    "name": "Бизнес-аналитик",
+    "salary": {
+      "min": 200000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127727250",
+    "website": "hh.ru",
+    "employer": "Синявина Юлия Александровна",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-14T17:21:01+0300"
+  },
+  {
+    "name": "Senior Full-Stack Engineer (TypeScript · React · NestJS)",
+    "salary": {
+      "min": 4000.0,
+      "max": 6000.0,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127804037",
+    "website": "hh.ru",
+    "employer": "ArtWorkout",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-17T21:16:43+0300"
+  },
+  {
+    "name": "Senior Manual QA",
+    "salary": {
+      "min": null,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127507766",
+    "website": "hh.ru",
+    "employer": "Дартс рекрутинг сервисез",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-11T10:15:38+0300"
+  },
+  {
+    "name": "FPGA программист",
+    "salary": {
+      "min": 350000.0,
+      "max": 600000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126875160",
+    "website": "hh.ru",
+    "employer": "Бринго",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T18:13:10+0300"
+  },
+  {
+    "name": "Бизнес-аналитик в коммерческую дирекцию (Миддл, с перспективой роста до Сеньора)",
+    "salary": {
+      "min": 250000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127540699",
+    "website": "hh.ru",
+    "employer": "Эксперт, Кадровый Центр",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-11T16:16:47+0300"
+  },
+  {
+    "name": "Prompt-инженер",
+    "salary": {
+      "min": null,
+      "max": 180000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127577430",
+    "website": "hh.ru",
+    "employer": "GlowByte",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-12T12:12:19+0300"
+  },
+  {
+    "name": "Junior Data Analyst/Аналитик данных",
+    "salary": {
+      "min": 90000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127474353",
+    "website": "hh.ru",
+    "employer": "Your CodeReview",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-10T13:09:07+0300"
+  },
+  {
+    "name": "QA тестировщик",
+    "salary": {
+      "min": 150000.0,
+      "max": 180000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127606495",
+    "website": "hh.ru",
+    "employer": "ЦИФРОВЫЕ ИНТЕРНЕТ ПЛАТФОРМЫ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-12T17:22:39+0300"
+  },
+  {
+    "name": "Аналитик",
+    "salary": {
+      "min": 250000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127470260",
+    "website": "hh.ru",
+    "employer": "Холдинговая компания АлфиГрупп",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-10T12:17:19+0300"
+  },
+  {
+    "name": "Тестировщик-автоматизатор/QA Automation Engineer",
+    "salary": {
+      "min": 115000.0,
+      "max": 157500.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127435350",
+    "website": "hh.ru",
+    "employer": "Фирма ПАЛИТРА СИСТЕМ",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-10T05:14:31+0300"
+  },
+  {
+    "name": "LLM-engineer/специалист по интеграции RAG-систем",
+    "salary": {
+      "min": 190000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127350787",
+    "website": "hh.ru",
+    "employer": "OSMI IT",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T10:11:42+0300"
+  },
+  {
+    "name": "Инженер-конструктор BIM проектирование",
+    "salary": {
+      "min": 180000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127562809",
+    "website": "hh.ru",
+    "employer": "Астэк-МТ, ГК",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-12T09:47:38+0300"
+  },
+  {
+    "name": "Middle AQA инженер (web)",
+    "salary": {
+      "min": 253000.0,
+      "max": 295000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127241131",
+    "website": "hh.ru",
+    "employer": "Sminex",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-01T18:58:39+0300"
+  },
+  {
+    "name": "Аналитик алгоритмов АСУТП",
+    "salary": {
+      "min": 155000.0,
+      "max": 180000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127398848",
+    "website": "hh.ru",
+    "employer": "Научно-исследовательский институт транспорта нефти и нефтепродуктов Транснефть",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-07T10:54:32+0300"
+  },
+  {
+    "name": "Lead LLM",
+    "salary": {
+      "min": 400000.0,
+      "max": 600000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127457400",
+    "website": "hh.ru",
+    "employer": "Made of Storm",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-10T10:47:26+0300"
+  },
+  {
+    "name": "DevOps-инженер",
+    "salary": {
+      "min": 300000.0,
+      "max": 500000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127216372",
+    "website": "hh.ru",
+    "employer": "AYA Group",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-01T14:07:58+0300"
+  },
+  {
+    "name": "Преподаватель программирования в IT-школу для детей",
+    "salary": {
+      "min": 67000.0,
+      "max": 96000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/121616391",
+    "website": "hh.ru",
+    "employer": "Hackerson (ИП Новиков Антон Петрович)",
+    "experience": "Нет опыта",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-10T11:22:52+0300"
+  },
+  {
+    "name": "DevOps-инженер в банк",
+    "salary": {
+      "min": null,
+      "max": 230000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127190704",
+    "website": "hh.ru",
+    "employer": "DCloud",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-31T16:52:51+0300"
+  },
+  {
+    "name": "Junior Системный администратор",
+    "salary": {
+      "min": 100000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127433874",
+    "website": "hh.ru",
+    "employer": "МСН Телеком",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-09T22:42:35+0300"
+  },
+  {
+    "name": "Senior ML-инженер",
+    "salary": {
+      "min": 270000.0,
+      "max": 310000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127067508",
+    "website": "hh.ru",
+    "employer": "Live Typing",
+    "experience": "Более 6 лет",
+    "employment": "Проектная работа",
+    "published_at": "2025-10-28T14:58:42+0300"
+  },
+  {
+    "name": "Преподаватель информатики (ЕГЭ)",
+    "salary": {
+      "min": 80000.0,
+      "max": 140000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127071163",
+    "website": "hh.ru",
+    "employer": "Программный Продукт, ИТ-компания",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Частичная занятость",
+    "published_at": "2025-11-06T14:37:27+0300"
+  },
+  {
+    "name": "Full-stack Integration Manager / Интеграционный PSP менеджер",
+    "salary": {
+      "min": 3500.0,
+      "max": null,
+      "currency": "USD"
+    },
+    "url": "https://hh.ru/vacancy/127416116",
+    "website": "hh.ru",
+    "employer": "Зенит-Брокер",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-07T16:08:32+0300"
+  },
+  {
+    "name": "Специалист технической поддержки (L1)",
+    "salary": {
+      "min": 104500.0,
+      "max": 104500.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127335545",
+    "website": "hh.ru",
+    "employer": "Бринго",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T19:50:39+0300"
+  },
+  {
+    "name": "Системный аналитик (EdTech)",
+    "salary": {
+      "min": 150000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127492215",
+    "website": "hh.ru",
+    "employer": "МФТИ, Центр развития ИТ-образования",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-10T18:02:53+0300"
+  },
+  {
+    "name": "Data Engineer",
+    "salary": {
+      "min": null,
+      "max": 270000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127308811",
+    "website": "hh.ru",
+    "employer": "В Кадре",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T13:43:18+0300"
+  },
+  {
+    "name": "Бизнес-аналитик",
+    "salary": {
+      "min": 160000.0,
+      "max": 180000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127185773",
+    "website": "hh.ru",
+    "employer": "Soar high software",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-31T15:04:46+0300"
+  },
+  {
+    "name": "Преподаватель в Roblox Studio для детей",
+    "salary": {
+      "min": 2000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127155699",
+    "website": "hh.ru",
+    "employer": "Робомаркет",
+    "experience": "Нет опыта",
+    "employment": "Частичная занятость",
+    "published_at": "2025-10-30T16:26:40+0300"
+  },
+  {
+    "name": "Инженер технической поддержки и внедрения L2",
+    "salary": {
+      "min": 150000.0,
+      "max": 180000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127323825",
+    "website": "hh.ru",
+    "employer": "Компания Стрим Лабс",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T16:10:41+0300"
+  },
+  {
+    "name": "Senior backend developer (PHP, Symfony) в Fintech",
+    "salary": {
+      "min": 400000.0,
+      "max": 600000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127109740",
+    "website": "hh.ru",
+    "employer": "еКапуста",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-29T14:40:16+0300"
+  },
+  {
+    "name": "DevOps Engineer",
+    "salary": {
+      "min": 230000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127363966",
+    "website": "hh.ru",
+    "employer": "UREMONT",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-06T13:01:15+0300"
+  },
+  {
+    "name": "Стажер-ресечер",
+    "salary": {
+      "min": 50000.0,
+      "max": 50000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126332802",
+    "website": "hh.ru",
+    "employer": "МТС",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-31T13:51:23+0300"
+  },
+  {
+    "name": "System Architect (Solution Architect) / Системный архитектор",
+    "salary": {
+      "min": null,
+      "max": 450000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126082288",
+    "website": "hh.ru",
+    "employer": "Rubbles",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-10T10:04:54+0300"
+  },
+  {
+    "name": "Экономист/Аналитик",
+    "salary": {
+      "min": null,
+      "max": 120000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127241101",
+    "website": "hh.ru",
+    "employer": "Группа компаний «Триумф»",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-01T18:53:13+0300"
+  },
+  {
+    "name": "Cпециалист по автоматизации технических процессов",
+    "salary": {
+      "min": 73500.0,
+      "max": 73500.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/125933542",
+    "website": "hh.ru",
+    "employer": "Яндекс Крауд",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-28T15:50:42+0300"
+  },
+  {
+    "name": "Автотестировщик",
+    "salary": {
+      "min": null,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/119905205",
+    "website": "hh.ru",
+    "employer": "ProfiStaff",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-27T08:32:54+0300"
+  },
+  {
+    "name": "Системный аналитик",
+    "salary": {
+      "min": 200000.0,
+      "max": 230000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127336266",
+    "website": "hh.ru",
+    "employer": "Транспортные решения",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T22:04:38+0300"
+  },
+  {
+    "name": "Системный администратор",
+    "salary": {
+      "min": null,
+      "max": 200000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127286754",
+    "website": "hh.ru",
+    "employer": "Netris",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T11:03:27+0300"
+  },
+  {
+    "name": "Cv-engineer",
+    "salary": {
+      "min": 250000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/122628410",
+    "website": "hh.ru",
+    "employer": "POSCREDIT",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-31T16:38:27+0300"
+  },
+  {
+    "name": "Системный аналитик/Бизнес-аналитик",
+    "salary": {
+      "min": 150000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/114811435",
+    "website": "hh.ru",
+    "employer": "АПТЕКИ ВАША № 1",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-31T09:06:53+0300"
+  },
+  {
+    "name": "Контент-маркетолог",
+    "salary": {
+      "min": 140000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127421009",
+    "website": "hh.ru",
+    "employer": "Архитех ИИ",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-07T17:50:21+0300"
+  },
+  {
+    "name": "BI-аналитик",
+    "salary": {
+      "min": 140000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/123667086",
+    "website": "hh.ru",
+    "employer": "ПроКонтекст",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T12:10:17+0300"
+  },
+  {
+    "name": "Менеджер по продажам на биржах фриланса",
+    "salary": {
+      "min": 120000.0,
+      "max": 700000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127256437",
+    "website": "hh.ru",
+    "employer": "Студия Денерикс",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-03T19:14:11+0300"
+  },
+  {
+    "name": "Junior DevOps-инженер",
+    "salary": {
+      "min": 80000.0,
+      "max": 100000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127210777",
+    "website": "hh.ru",
+    "employer": "Петров А.В",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-01T11:58:43+0300"
+  },
+  {
+    "name": "Solution Architect",
+    "salary": {
+      "min": null,
+      "max": 350000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127187969",
+    "website": "hh.ru",
+    "employer": "Selecty",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-31T15:48:44+0300"
+  },
+  {
+    "name": "Руководитель группы аналитики (FMCG)",
+    "salary": {
+      "min": 150000.0,
+      "max": null,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127279679",
+    "website": "hh.ru",
+    "employer": "ПромоДата",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T09:53:30+0300"
+  },
+  {
+    "name": "Ведущий инженер-программист отдела разработки, тестирования и конфигурирования ИИ",
+    "salary": {
+      "min": null,
+      "max": 300000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126965468",
+    "website": "hh.ru",
+    "employer": "Русские базовые информационные технологии, Научно-производственное объединение",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-27T09:45:40+0300"
+  },
+  {
+    "name": "Специалист технической поддержки (L2)",
+    "salary": {
+      "min": 104500.0,
+      "max": 104500.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127192573",
+    "website": "hh.ru",
+    "employer": "Бринго",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-31T17:38:57+0300"
+  },
+  {
+    "name": "Pentester мобильных приложений (Junior/Middle)",
+    "salary": {
+      "min": 100000.0,
+      "max": 250000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127318535",
+    "website": "hh.ru",
+    "employer": "Визум",
+    "experience": "От 1 года до 3 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-05T15:39:16+0300"
+  },
+  {
+    "name": "Ручной тестировщик",
+    "salary": {
+      "min": 180000.0,
+      "max": 230000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127075950",
+    "website": "hh.ru",
+    "employer": "Свистунова Екатерина Александровна",
+    "experience": "Более 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-28T16:53:35+0300"
+  },
+  {
+    "name": "Инженер-программист C++ (edge система)",
+    "salary": {
+      "min": 200000.0,
+      "max": 240000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/127046517",
+    "website": "hh.ru",
+    "employer": "Базовые технологии",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-28T10:32:00+0300"
+  },
+  {
+    "name": "DevOps-инженер",
+    "salary": {
+      "min": null,
+      "max": 290000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/110051838",
+    "website": "hh.ru",
+    "employer": "Кадровое агентство Аспект",
+    "experience": "От 3 до 6 лет",
+    "employment": "Полная занятость",
+    "published_at": "2025-10-29T16:07:42+0300"
+  },
+  {
+    "name": "ИИ-автоматизатор / ИИ-инженер (n8n/Make)",
+    "salary": {
+      "min": 100000.0,
+      "max": 160000.0,
+      "currency": "RUR"
+    },
+    "url": "https://hh.ru/vacancy/126844353",
+    "website": "hh.ru",
+    "employer": "Реактор",
+    "experience": "Нет опыта",
+    "employment": "Полная занятость",
+    "published_at": "2025-11-03T09:45:53+0300"
+  }
+]

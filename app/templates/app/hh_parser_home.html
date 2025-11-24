@@ -1,0 +1,49 @@
+<!-- github_app/templates/github_app/hh_parser_home.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HH.ru Parser</title>
+    <style>
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+        .form-group { margin-bottom: 20px; }
+        .form-control { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 5px; }
+        .btn { padding: 12px 30px; background: #FF3366; color: white; border: none; border-radius: 5px; cursor: pointer; }
+        .info-box { background: #f0f8ff; padding: 20px; border-radius: 8px; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="{% url 'home' %}">← Назад к заданиям</a>
+        
+        <h1>🔍 Парсер вакансий HH.ru</h1>
+        
+        <div class="info-box">
+            <h3>📋 Что делает парсер:</h3>
+            <ul>
+                <li>Ищет вакансии на HeadHunter по заданной должности</li>
+                <li>Анализирует несколько страниц результатов</li>
+                <li>Парсит зарплату (минимум, максимум, валюта)</li>
+                <li>Сохраняет данные в JSON и показывает в таблице</li>
+                <li>Показывает статистику по зарплатам</li>
+            </ul>
+        </div>
+        
+        <form method="post">
+            {% csrf_token %}
+            
+            <div class="form-group">
+                <label><strong>{{ form.job_title.label }}</strong></label>
+                {{ form.job_title }}
+            </div>
+            
+            <div class="form-group">
+                <label><strong>{{ form.pages.label }}</strong></label>
+                {{ form.pages }}
+                <small style="color: #666;">{{ form.pages.help_text }}</small>
+            </div>
+            
+            <button type="submit" class="btn">🚀 Найти вакансии</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!-- app/templates/app/vk_api_home.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VK API Test</title>
+    <style>
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+        .form-control { width: 100%; padding: 12px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px; }
+        .btn { padding: 12px 24px; background: #4c75a3; color: white; border: none; border-radius: 5px; cursor: pointer; }
+        .error { background: #ffebee; color: #c62828; padding: 15px; border-radius: 5px; margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="{% url 'home' %}">← Назад</a>
+        <h1>VK API Тест</h1>
+        
+        {% if error %}
+            <div class="error">{{ error }}</div>
+        {% endif %}
+        
+        <p>1. <a href="{% url 'vk_get_token' %}" target="_blank">Получить VK токен</a></p>
+        <p>2. Вставьте токен ниже:</p>
+        
+        <form method="post">
+            {% csrf_token %}
+            <input type="text" name="access_token" class="form-control" 
+                   placeholder="Вставьте сюда ваш VK токен" required
+                   {% if access_token %}value="{{ access_token }}"{% endif %}>
+            <button type="submit" class="btn">Получить данные</button>
+        </form>
+    </div>
+</body>
+</html>

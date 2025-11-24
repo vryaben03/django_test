@@ -2,42 +2,98 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>GitHub API Integration</title>
+    <title>Assignments</title>
     <style>
-        .container { max-width: 600px; margin: 50px auto; padding: 20px; }
-        .form-group { margin-bottom: 15px; }
-        .form-control { width: 100%; padding: 8px; margin-top: 5px; }
+        .container { max-width: 1000px; margin: 0 auto; padding: 20px; }
+        .header { text-align: center; margin-bottom: 40px; }
+        .assignments-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+        .assignment-card { 
+            border: 1px solid #ddd; 
+            padding: 25px; 
+            border-radius: 10px; 
+            background: white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .assignment-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        .assignment-card.active { border-left: 5px solid #007bff; }
+        .assignment-card.coming-soon { 
+            border-left: 5px solid #6c757d; 
+            opacity: 0.7;
+        }
+        .assignment-icon { font-size: 2em; margin-bottom: 10px; }
+        .assignment-title { 
+            font-size: 1.3em; 
+            font-weight: bold; 
+            margin-bottom: 10px; 
+            color: #333;
+        }
+        .assignment-description { 
+            color: #666; 
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
         .btn { 
+            display: inline-block; 
             padding: 10px 20px; 
             background: #007bff; 
             color: white; 
-            border: none; 
+            text-decoration: none; 
+            border-radius: 5px;
+            border: none;
             cursor: pointer;
-            text-decoration: none;
-            display: inline-block;
         }
-        .alert { padding: 10px; margin: 10px 0; border-radius: 5px; }
-        .alert-info { background: #d1ecf1; }
+        .btn:hover { background: #0056b3; }
+        .btn-disabled { 
+            background: #6c757d; 
+            cursor: not-allowed;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            margin-left: 10px;
+        }
+        .status-active { background: #d4edda; color: #155724; }
+        .status-coming { background: #e2e3e5; color: #383d41; }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>GitHub API Integration</h1>
-        <div class="alert alert-info">
-            <strong>Инструкция:</strong><br>
-            1. Получите Personal Access Token в GitHub Settings<br>
-            2. Введите токен ниже<br>
-            3. Перейдите к получению репозиториев
+        <div class="header">
+            <h1>🚀 API Integration Assignments</h1>
+            <p>Выберите задание для работы с различными API</p>
         </div>
-        
-        <form method="post">
-            {% csrf_token %}  <!-- ВАЖНО: эта строка должна быть! -->
-            <div class="form-group">
-                {{ form.token.label_tag }}
-                {{ form.token }}
+
+        <div class="assignments-grid">
+            {% for assignment in assignments %}
+            <div class="assignment-card {{ assignment.status }}">
+                <div class="assignment-icon">{{ assignment.icon }}</div>
+                <div class="assignment-title">
+                    {{ assignment.title }}
+                    <span class="status-badge status-{{ assignment.status }}">
+                        {% if assignment.status == 'active' %}активно{% else %}скоро{% endif %}
+                    </span>
+                </div>
+                <div class="assignment-description">
+                    {{ assignment.description }}
+                </div>
+                
+                {% if assignment.status == 'active' %}
+                    <a href="{% url assignment.url %}" class="btn">Перейти к заданию</a>
+                {% else %}
+                    <span class="btn btn-disabled">Скоро будет доступно</span>
+                {% endif %}
             </div>
-            <button type="submit" class="btn">Сохранить токен</button>
-        </form>
+            {% endfor %}
+        </div>
+
+        <div style="text-align: center; margin-top: 40px; color: #666;">
+        </div>
     </div>
 </body>
 </html>

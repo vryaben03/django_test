@@ -1,0 +1,78 @@
+<!-- app/templates/app/vk_basic_info.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Базовая информация VK</title>
+    <style>
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+        .profile-card { background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 20px 0; text-align: center; }
+        .user-avatar { width: 150px; height: 150px; border-radius: 50%; }
+        .info-item { margin: 10px 0; padding: 10px; background: white; border-radius: 5px; }
+        .btn { padding: 10px 20px; margin: 5px; text-decoration: none; border-radius: 5px; display: inline-block; }
+        .btn-secondary { background: #6c757d; color: white; }
+        .success { background: #d4edda; padding: 15px; border-radius: 5px; margin: 20px 0; }
+        .error { background: #f8d7da; padding: 15px; border-radius: 5px; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div style="margin-bottom: 20px;">
+            <a href="{% url 'vk_api_home' %}" class="btn btn-secondary">← Назад к VK API</a>
+            <a href="{% url 'home' %}" class="btn btn-secondary">📋 К списку заданий</a>
+        </div>
+        
+        {% if error %}
+            <div class="error">
+                <strong>❌ Ошибка:</strong> {{ error }}
+            </div>
+        {% endif %}
+        
+        {% if filename %}
+            <div class="success">
+                <strong>✅ Успешно!</strong> Данные сохранены в файл: {{ filename }}
+            </div>
+        {% endif %}
+        
+        <div class="profile-card">
+            <h2>👤 Базовая информация VK</h2>
+            
+            {% if profile.photo_200 %}
+                <img src="{{ profile.photo_200 }}" alt="Avatar" class="user-avatar">
+            {% endif %}
+            
+            <h3>{{ profile.first_name }} {{ profile.last_name }}</h3>
+            
+            {% if status %}
+                <div class="info-item">
+                    <strong>📝 Статус:</strong> "{{ status }}"
+                </div>
+            {% endif %}
+            
+            <div style="text-align: left; margin-top: 20px;">
+                {% if profile.bdate %}
+                    <div class="info-item">🎂 <strong>День рождения:</strong> {{ profile.bdate }}</div>
+                {% endif %}
+                
+                {% if profile.sex %}
+                    <div class="info-item">
+                        👫 <strong>Пол:</strong> 
+                        {% if profile.sex == 1 %}Женский{% elif profile.sex == 2 %}Мужской{% else %}Не указан{% endif %}
+                    </div>
+                {% endif %}
+                
+                {% if profile.city %}
+                    <div class="info-item">🏙️ <strong>Город:</strong> {{ profile.city.title }}</div>
+                {% endif %}
+                
+                {% if profile.country %}
+                    <div class="info-item">🌍 <strong>Страна:</strong> {{ profile.country.title }}</div>
+                {% endif %}
+            </div>
+            
+            <div style="margin-top: 20px; color: #666; font-size: 0.9em;">
+                <p>✅ Успешно получены базовые данные через VK API</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

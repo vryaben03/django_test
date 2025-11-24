@@ -1,0 +1,46 @@
+<!-- github_app/templates/github_app/github_api_home.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GitHub API Integration</title>
+    <style>
+        .container { max-width: 600px; margin: 50px auto; padding: 20px; }
+        .form-group { margin-bottom: 15px; }
+        .form-control { width: 100%; padding: 8px; margin-top: 5px; }
+        .btn { 
+            padding: 10px 20px; 
+            background: #007bff; 
+            color: white; 
+            border: none; 
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .back-link { margin-bottom: 20px; display: inline-block; }
+        .alert { padding: 10px; margin: 10px 0; border-radius: 5px; }
+        .alert-info { background: #d1ecf1; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="{% url 'home' %}" class="back-link">← Назад к списку заданий</a>
+        
+        <h1>GitHub API Integration</h1>
+        <div class="alert alert-info">
+            <strong>Инструкция:</strong><br>
+            1. Получите Personal Access Token в GitHub Settings<br>
+            2. Введите токен ниже<br>
+            3. Перейдите к получению репозиториев
+        </div>
+        
+        <form method="post">
+            {% csrf_token %}
+            <div class="form-group">
+                {{ form.token.label_tag }}
+                {{ form.token }}
+            </div>
+            <button type="submit" class="btn">Сохранить токен</button>
+        </form>
+    </div>
+</body>
+</html>

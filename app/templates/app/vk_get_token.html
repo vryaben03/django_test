@@ -1,0 +1,33 @@
+<!-- app/templates/app/vk_get_token.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Get VK Token</title>
+</head>
+<body>
+    <div style="max-width: 600px; margin: 0 auto; padding: 20px;">
+        <h1>Получение VK токена</h1>
+        
+        <p><strong>Инструкция:</strong></p>
+        <ol>
+            <li>Нажмите на ссылку ниже</li>
+            <li>Разрешите доступ приложению</li>
+            <li>Скопируйте токен из адресной строки</li>
+            <li>Вставьте токен в форму VK API</li>
+        </ol>
+        
+        <p><a href="{{ auth_url }}" target="_blank" style="font-size: 18px;">
+            🔗 Получить VK токен
+        </a></p>
+        
+        <div style="background: #f0f0f0; padding: 15px; margin: 20px 0;">
+            <p><strong>Как скопировать токен:</strong></p>
+            <p>После авторизации в адресной строке будет:</p>
+            <code>https://oauth.vk.com/blank.html#access_token=ВАШ_ТОКЕН...</code>
+            <p>Скопируйте часть между <strong>access_token=</strong> и <strong>&expires_in</strong></p>
+        </div>
+        
+        <a href="{% url 'vk_api_home' %}">← Назад к VK API</a>
+    </div>
+</body>
+</html>
